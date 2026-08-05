@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [3731-find-missing-elements](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0636-exclusive-time-of-functions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
