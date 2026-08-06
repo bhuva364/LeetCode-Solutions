@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [1840-maximum-building-height](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3731-find-missing-elements](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
