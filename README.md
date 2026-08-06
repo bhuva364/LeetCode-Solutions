@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0148-sort-list) |
