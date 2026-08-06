@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
 | ------- |
@@ -372,4 +374,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
