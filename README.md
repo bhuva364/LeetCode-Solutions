@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0766-toeplitz-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
