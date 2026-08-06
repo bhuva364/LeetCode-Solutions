@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
