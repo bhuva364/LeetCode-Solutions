@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0641-design-circular-deque](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3731-find-missing-elements](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3731-find-missing-elements](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
