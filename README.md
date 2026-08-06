@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
