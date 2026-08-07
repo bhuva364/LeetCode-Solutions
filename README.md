@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
