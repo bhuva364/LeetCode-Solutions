@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0048-rotate-image) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
