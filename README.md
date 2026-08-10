@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
