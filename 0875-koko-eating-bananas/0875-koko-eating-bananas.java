@@ -17,10 +17,10 @@ class Solution {
         return ans;
     }
 
-    private boolean isValid(int[] piles, int k, int h) {
+    private boolean isValid(int[] piles, int mid, int h) {
         long totalHours = 0; 
         for (int pile : piles) {
-            totalHours += (pile + k - 1) / k; 
+            totalHours += (pile + mid - 1) / mid; 
         }
         return totalHours <= h;
     }
