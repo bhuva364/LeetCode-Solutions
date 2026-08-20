@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
