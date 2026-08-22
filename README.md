@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Simulation
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
