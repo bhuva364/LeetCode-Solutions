@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2963-count-the-number-of-good-partitions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1927-sum-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Timsort
 |  |
@@ -500,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
