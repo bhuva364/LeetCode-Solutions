@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2963-count-the-number-of-good-partitions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2963-count-the-number-of-good-partitions](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
