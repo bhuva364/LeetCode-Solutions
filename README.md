@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
