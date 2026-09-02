@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
@@ -439,12 +440,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
