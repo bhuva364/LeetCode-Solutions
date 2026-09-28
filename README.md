@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -541,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
