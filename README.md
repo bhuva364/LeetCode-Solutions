@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuva364/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1137-n-th-tribonacci-number](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhuva364/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
